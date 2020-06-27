@@ -1,0 +1,22 @@
+Ready-to-Use Formats 
+ This category of logo files can is uploaded directly to the web.
+
+*PNG - PNGs can be directly uploaded to a website for use as a logo, and since they have a transparent background,they’ll lay nicely on top of whatever color, pattern, image or video is being used as the background.
+
+*JPG - This format has no transparent backgrounds. The background will usually default to white useful where PNG format is not acceptable.
+
+File-types
+
+Icons -This file can be used for social media platforms like Facebook or Instagram page.
+
+Favicon - A website favicon is a little icon that appears on the browser tab of a website.
+
+Full Color- The standard variation in full color is probably be the most used variation as well. 
+
+Monotone- The final color variation is monotone — both all black and all white.These won’t be used as often as   
+                  the full color variations, but it’s important to have copies of these on hand regardless. If you’re using  
+                  your logo in a very simplified context — like on a black & white fax printout, or cut into a steel sign —                   these monotone copies will offer the versatility needed to accomplish that.
+
+PDF – The benefit with PDF though is that it’s not proprietary, meaning it can work with any vector graphics                      software.
+
+CMKY - CMYK is used for high quality print products.
